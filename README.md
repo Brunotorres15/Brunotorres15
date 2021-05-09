@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Graduating in Analysis and Systems Development.
+- 🔭Curious and Passionate about everything in the world of technology!
+- ⚡ Currently interested and studying Backend Development using Python and Django, also a little bit of Frontend using React.
+- 🔭 I have some knowledge in Data Science, Computer Vision and Deep Learning.
+
+- 📫 Linkedin: https://www.linkedin.com/in/bruno-torres-163752189/
+- 📫 Medium: https://medium.com/@brunotorres_85976
+- 📫 Kaggle: https://www.kaggle.com/brunotorres05
