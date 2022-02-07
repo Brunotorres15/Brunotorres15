@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 - ⚡ Graduating in Analysis and Systems Development.
 - 🔭Curious and Passionate about everything in the world of technology!
-- ⚡ Currently interested and studying Backend Development using Nodejs, Typescript/Javascript, Nestjs, MongoDB... also some Python and Django.
+- ⚡ interested and studying Web Development, UI/UX, Data Engineering.
 - 🔭 I also have knowledge in Data Analysis, Computer Vision and Deep Learning.
 
-- 📫 Linkedin: https://www.linkedin.com/in/bruno-torres-163752189/
+- 📫 Linkedin: https://www.linkedin.com/in/brunotorres05/
 - 📫 Medium: https://medium.com/@brunotorres_85976
 - 📫 Kaggle: https://www.kaggle.com/brunotorres05
+- 📫 Dribble: https://dribbble.com/brunotorres05
