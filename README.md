@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Graduating in Analysis and Systems Development.
+- ⚡ Graduated in Analysis and Systems Development.
 - 🔭Curious and Passionate about everything in the world of technology!
-- ⚡ interested and studying Web Development, UI/UX, Data Engineering.
-- 🔭 I also have knowledge in Data Analysis, Computer Vision and Deep Learning.
+- ⚡ Working as a System Analyst, using technologies like C#, .Net, SQL and Python.
+- 🔭 I also have knowledge in Data Analysis and Mobile Development (Android).
 
 - 📫 Linkedin: https://www.linkedin.com/in/brunotorres05/
 - 📫 Medium: https://medium.com/@brunotorres_85976
-- 📫 Kaggle: https://www.kaggle.com/brunotorres05
-- 📫 Dribble: https://dribbble.com/brunotorres05
