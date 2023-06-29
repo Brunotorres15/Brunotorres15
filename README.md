@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Graduated in Analysis and Systems Development.
 - 🔭Curious and Passionate about everything in the world of technology!
 - ⚡ Working as a System Analyst, using technologies like C#, .Net, SQL and Python.
-- 🔭 I also have knowledge in Data Analysis and Mobile Development (Android).
+- 🔭 I also have knowledge in Data Analysis.
 
 - 📫 Linkedin: https://www.linkedin.com/in/brunotorres05/
 - 📫 Medium: https://medium.com/@brunotorres_85976
